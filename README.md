@@ -42,5 +42,8 @@ Will change to aligning items to the right of the status bar, as well as
 automatically change the dividing symbol used.
 
 ## License
-Copyright (c) 2012 Dan Heberden Licensed under the MIT license.
+
+`slantstatus.vim` Copyright (c) 2013 Dan Heberden Licensed under the MIT license.
+
+`./fonts` Persist their own, original copyright. 
 
