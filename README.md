@@ -9,9 +9,10 @@ A simple segmented statusline plugin for vim.
 Add `slantstatus.vim` to your `.vim/autoload` directory or use [pathogen](https://github.com/tpope/vim-pathogen)
 to add the file (or whole folder - possibly as a git submodule) to your `.vim/bundle` directory.
 
-You can use the [powerline fonts](https://github.com/Lokaltog/powerline-fonts) if you like that style.
-I found it to stand out too much, hence the slanted style. You can find patched fonts in the `fonts`
-directory to use in your terminal of choice (be sure to set both ascii and non-ascii fonts).
+Next, you should add a patched terminal font. You can use the [powerline fonts](https://github.com/Lokaltog/powerline-fonts)
+if you like that style. I found it to stand out too much, hence the slanted style. You can find
+patched fonts in the `fonts` directory to use in your terminal of choice (be sure to set both
+ascii and non-ascii fonts).
 
 ## Use
 
