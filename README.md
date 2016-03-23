@@ -2,7 +2,7 @@
 
 A simple segmented statusline plugin for vim. 
 
-![](http://danheberden.com/share/1ee70cb.png)
+![](http://danheberden.com/share/7996.png)
 
 ## Installation
 
